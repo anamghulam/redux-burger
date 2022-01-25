@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "burgur-deploy",
+    "final-burger": "burgur-deploy"
+  },
+  "targets": {}
+}
